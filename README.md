@@ -1,4 +1,4 @@
-# MYOB-Windows-Service
+# MYOB-Windows-Service Sample Application
 
 Windows Service developed in c# to for reporting and automatic backup of sales and purchase orders of company file in myob cloud.
 
